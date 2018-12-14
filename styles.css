@@ -13,4 +13,6 @@ input[type=text]{
 }
 #form{
     background-color: burlywood;
+    position: absolute;
+    top: 30%;
 }
