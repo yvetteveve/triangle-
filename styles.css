@@ -3,8 +3,8 @@ body{
     text-align: center;
     color: black;
     padding-top:200px;
-    
-    
+   font-family:monospace; 
+    font-size:bolder;
 
 }
 input[type=text]{
@@ -13,6 +13,6 @@ input[type=text]{
 }
 #form{
     background-color: burlywood;
-    position: absolute;
-    top: 30%;
+    top: 30;
+     
 }
