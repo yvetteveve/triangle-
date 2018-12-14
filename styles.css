@@ -1,8 +1,16 @@
 body{
     background-color: aquamarine;
     text-align: center;
-    color: black
-    background-size: 
-    align-items: center;
+    color: black;
+    padding-top:200px;
+    
+    
 
+}
+input[type=text]{
+    padding:30px;
+    width:300px;
+}
+#form{
+    background-color: burlywood;
 }
