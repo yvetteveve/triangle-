@@ -11,10 +11,10 @@ function outputname(){
     }
     else if (
         (numberone + numbertwo <= numberthree &&
-            numbertwo + numberone <= numberthree)||
-            (numberone + numberthree <= numbertwo &&
-             numberthree + numberone <= numbertwo)||
-            (numbertwo + numberthree <= numberone && numberthree + numbertwo <= numberone)
+         numbertwo + numberone <= numberthree)||
+        (numberone + numberthree <= numbertwo &&
+         numberthree + numberone <= numbertwo)||
+        (numbertwo + numberthree <= numberone && numberthree + numbertwo <= numberone)
          ) {
         text = "Not a Triangle.";
       }
