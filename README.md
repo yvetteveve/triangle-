@@ -3,8 +3,7 @@
 #### By **-Yvette Umubyeyi**
 
 
-## Description
-This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have:
+## Description:
 
 and my webside triangle tracker in javascript doing a simple shipping and handling calculation
 and that allows the user to input the lengths of the sides of a triangle, and returns whether 
