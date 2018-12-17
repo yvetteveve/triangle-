@@ -20,9 +20,9 @@ function outputname(){
       }
     
     else if(numberone === numbertwo && 
-        numberone===numberthree &&
-        numbertwo === numberthree){
-        text = "Equilaterial Triangle.";
+          numberone===numberthree &&
+          numbertwo === numberthree){
+          text = "Equilaterial Triangle.";
     }
      
     
