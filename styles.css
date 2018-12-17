@@ -21,3 +21,9 @@ input[type=text]{
     width: 30%;
     margin-left:630px;
 }
+.footer{
+       position: fixed;
+       left: 0;
+       bottom: 0;
+       
+}
