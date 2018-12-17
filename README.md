@@ -27,7 +27,7 @@ program should return equilateral triangle
 Example: 3,3,5
 program should return isosceles.
 
-*if no sides are equal 
+*If no sides are equal 
 Example:12,13,14
 program should return scalene triangle
 
