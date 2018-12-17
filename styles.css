@@ -12,16 +12,18 @@ input[type=text]{
     width:300px;
 }
 #form{
-    background-color: burlywood;
+    background-color: beige;
     top: 30;
     position: relative;
     padding-bottom: 12px;
     padding-right: 12px;
     padding-left: 12px;
+    width: 30%;
+    margin-left:630px;
 }
 .footer{
        position: fixed;
        left: 0;
        bottom: 0;
-       width: 100%;
+       
 }

@@ -41,7 +41,8 @@ function outputname(){
         else{
         text = "Error.";
     }
-    
+        
         document.getElementById('demo').innerHTML= text;
+        document.getElementById('demo').innerHTML+=array;
 
 }
