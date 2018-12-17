@@ -14,5 +14,14 @@ input[type=text]{
 #form{
     background-color: burlywood;
     top: 30;
-     
+    position: relative;
+    padding-bottom: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.footer{
+       position: fixed;
+       left: 0;
+       bottom: 0;
+       width: 100%;
 }
