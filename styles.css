@@ -20,6 +20,7 @@ input[type=text]{
     padding-left: 12px;
     width: 30%;
     margin-left:630px;
+    display: block;
 }
 .footer{
        position: fixed;
