@@ -20,16 +20,16 @@ function outputname(){
       }
     
     else if(numberone === numbertwo && 
-          numberone===numberthree &&
-          numbertwo === numberthree){
-          text = "Equilaterial Triangle.";
+         numberone===numberthree &&
+         numbertwo === numberthree){
+         text = "Equilaterial Triangle.";
     }
      
     
     else if(numberone===numbertwo || 
-        numberone===numberthree || 
-        numbertwo===numberthree) {
-        text="Isosceles Triangle.";
+         numberone===numberthree || 
+         numbertwo===numberthree) {
+         text="Isosceles Triangle.";
     }
   
     else if(numberone!==numbertwo &&
