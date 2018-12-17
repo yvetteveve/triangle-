@@ -38,7 +38,7 @@ function outputname(){
          text="Scalene Triangle."
     }
    
-        else{
+    else{
         text = "Error.";
     }
         
